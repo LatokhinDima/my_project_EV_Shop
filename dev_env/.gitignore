@@ -1,6 +1,10 @@
 #python stuff
 venv/
 
+#ide stuff
+venv/.idea
+.idea
+
 #django stuff
 app/db.sqlite3
 media/
