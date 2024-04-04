@@ -1,0 +1,6 @@
+#python stuff
+venv/
+
+#django stuff
+app/db.sqlite3
+media/
